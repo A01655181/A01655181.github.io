@@ -1,0 +1,28 @@
+a {
+	color:red;
+}
+
+li {
+	color:green;
+}
+
+
+ul ul{
+	color:orange;
+}
+
+table {
+	border:1px solid;
+}
+
+.miestilo {
+	color:blue;
+}
+
+div p{
+	color:red;
+}
+
+div:hover{
+	color:red
+}
