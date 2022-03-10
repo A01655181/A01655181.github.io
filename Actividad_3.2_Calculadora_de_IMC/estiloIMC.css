@@ -1,0 +1,43 @@
+header h1{
+    text-align: center;
+    color: rgb(0, 81, 255);
+}
+
+body{
+    text-align: center;
+}
+
+.imgContainer img{
+    float: left;
+    width: 250px;
+    height: 200px;
+}
+
+.imgContainer2 img{
+    float: right;
+    width: 250px;
+    height: 200px;
+}
+
+.Question1{
+    margin: auto;
+    width: 350px;
+    padding: 10px;
+    border: 2px solid rgb(0, 81, 255);
+    background-color: rgb(0, 81, 255);
+}
+
+.Question2{
+    margin: auto;
+    width: 350px;
+    padding: 10px;
+    border: 2px solid rgb(0, 81, 255);
+    background-color: rgb(0, 81, 255);
+}
+
+.boton{
+    margin: auto;
+    width: 350px;
+    padding: 10px;
+}
+
